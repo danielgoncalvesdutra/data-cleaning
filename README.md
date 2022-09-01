@@ -18,10 +18,10 @@ What is dirty data?
 
 -Inconsistent data: Any data that uses different formats to represent the same thing
 
+And to clean the data I followed some tips from this sources:
 
-In this repository you'll find two files, the dirty data and the data after being clean.
-
-Sources:
 https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19
 
 https://support.google.com/a/users/answer/9604139?hl=en#zippy=
+
+In this repository you'll find two files, the dirty data and the clean data to compare.
