@@ -4,13 +4,13 @@ Hi!
 
 In this repository you'll find four files,
 
-"Dirty Data.xlsx" and "Clean Data.xlsx" are the dirty and clean data for the first project.
+"Dirty Data.xlsx" and "Clean Data.xlsx" are the dirty and clean data for the first data cleaning.
 
-"San-Francisco-Boba-Tea-Shop-Location-Info-Dirty.css" and "San-Francisco-Boba-Tea-Shop-Location-Info-Clean.xlsx" are the data for the second project.
+"San-Francisco-Boba-Tea-Shop-Location-Info-Dirty.css" and "San-Francisco-Boba-Tea-Shop-Location-Info-Clean.xlsx" are the data for the second data cleaning.
 
-This data cleaning projects were done by me while studying to get my Google Data Analyst certificate.
+This data cleanings were done by me while studying to get my Google Data Analyst certificate.
 
-I followed this informations provided by the course to accomplish the project:
+I followed this informations provided by the course to progress:
 
 What is dirty data?
 
